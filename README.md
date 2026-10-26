@@ -3,13 +3,13 @@
 
 # سينمانا سوه · Cinemana Soah
 
-**الإصدار الأول 1.0.0 — مشروع محمد شاهين اكبر**
+**الإصدار الحالي 1.0.1 — مشروع محمد شاهين اكبر**
 
 شاهدوا الأفلام والمسلسلات سوه، حتى لو بعيدين.
 
-### [تحميل التطبيق للأندرويد](https://github.com/MohammedShahin2006/cinemana-soah/releases/download/v1.0.0/Cinemana-Soah-1.0.0.apk)
+### [تحميل التطبيق للأندرويد](https://github.com/MohammedShahin2006/cinemana-soah/releases/download/v1.0.1/Cinemana-Soah-1.0.1.apk)
 
-[جميع الإصدارات](https://github.com/MohammedShahin2006/cinemana-soah/releases) · [Instagram @vvvbx1](https://www.instagram.com/vvvbx1/)
+[سجل التحديثات](CHANGELOG.md) · [جميع الإصدارات](https://github.com/MohammedShahin2006/cinemana-soah/releases) · [Instagram @vvvbx1](https://www.instagram.com/vvvbx1/)
 </div>
 
 ## فكرة التطبيق
@@ -30,7 +30,7 @@
 
 ## التحميل والاستخدام
 
-1. حمّل ملف **Cinemana-Soah-1.0.0.apk** من الرابط أعلاه وافتحه لتثبيته. قد يطلب أندرويد السماح بالتثبيت من المتصفح.
+1. حمّل ملف **Cinemana-Soah-1.0.1.apk** من الرابط أعلاه وافتحه لتثبيته. قد يطلب أندرويد السماح بالتثبيت من المتصفح.
 2. افتح التطبيق واضغط زر **سوه** لإنشاء غرفة.
 3. شارك الدعوة مع أصدقائك ووافق على دخولهم.
 4. افتحوا نفس الفيلم أو الحلقة وابدؤوا المشاهدة سوه.
